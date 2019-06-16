@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\Kali\miscstuff\Stalker\Misc\sensors_c"
+	"$halflambert" "1"				
+	"$nocull" 1					
+}
+
+

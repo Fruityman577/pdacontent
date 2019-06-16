@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "fruity\datapad"
+	"$halflambert" "1"
+
+	$ambientocclusion 1
+	$phong 1
+	$phongboost 0
+}
